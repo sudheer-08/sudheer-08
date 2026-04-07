@@ -35,8 +35,3 @@ Built solo from scratch. Key highlights:
 
 **AI in Education** — Published at ICICC-2026 (NIT Patna × University of Valladolid, Spain)
 
----
-
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudheer-kumar&show_icons=true&hide_border=true&count_private=true)
