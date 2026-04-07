@@ -1,6 +1,6 @@
 # Hi, I'm Sudheer Kumar 👋
 
-Full-Stack Developer · AI/ML · CS (AI & ML) @ Chandigarh University
+Full-Stack Developer · AI/ML · CSE (AI & ML) @ Chandigarh University
 
 📬 sudheerk31373@gmail.com · [LinkedIn](https://linkedin.com/in/sudheer-kumar08)
 
@@ -27,7 +27,7 @@ Built solo from scratch. Key highlights:
 
 ## Skills
 
-`JavaScript` `C++` `Python` `SQL` `React` `Node.js` `Express` `PostgreSQL` `Redis` `Docker` `Azure AI`
+ `C++` `JavaScript` `Python` `SQL` `React` `Node.js` `Express` `PostgreSQL` `Redis` `Docker` `Azure AI`
 
 ---
 
