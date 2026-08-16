@@ -8,7 +8,7 @@ Full-Stack Developer · AI/ML · CSE (AI & ML) @ Chandigarh University
 
 ## About
 
-Third-year CSE student who builds real, production-grade software. I independently designed and shipped **[QFlow](https://qflow-web.vercel.app/)** — a multi-tenant clinic SaaS — end to end. Published AI researcher. Open to internships and entry-level SWE / AI roles.
+Final-year CSE student who builds real, production-grade software. I independently designed and shipped **[QFlow](https://qflow-web.vercel.app/)** — a multi-tenant clinic SaaS — end to end. Published AI researcher. Open to internships and entry-level SWE / AI roles.
 
 ---
 
