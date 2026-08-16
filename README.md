@@ -27,7 +27,7 @@ Built solo from scratch. Key highlights:
 
 ## Skills
 
- `C++` `JavaScript` `Python` `SQL` `React` `Node.js` `Express` `PostgreSQL` `Redis` `Docker` `Azure AI`
+ `C++` `JavaScript` `Python` `SQL` `React` `Node.js` `Express` `PostgreSQL` `Docker` `Azure AI`
 
 ---
 
