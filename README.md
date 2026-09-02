@@ -1,46 +1,52 @@
 # Hi, I'm Sudheer Kumar 👋
+Full-Stack Developer · AI/ML · CS (AI & ML) @ Chandigarh University
 
-**Final-Year CS (AI & ML) Student @ Chandigarh University**[cite: 1]  
-*Full-Stack Developer | AI/LLM Application Engineer*[cite: 1]
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudheer-kumar08)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sudheerk31373@gmail.com)
+📬 sudheerk31373@gmail.com · [LinkedIn](https://linkedin.com/in/sudheer-kumar08)
 
 ---
 
-### ⚡ About Me
-* 🎓 Pursuing **BE in Computer Science (AI & ML)** at Chandigarh University[cite: 1].
-* 💻 Specializing in **Full-Stack Development** & **AI/LLM System Integration**[cite: 1].
-* 🧩 Solved **300+ DSA problems** on LeetCode[cite: 1].
-* 📜 Certified **Microsoft Azure AI Fundamentals (AI-900)**[cite: 1].
-* 📄 Published AI research paper at **ICICC-2026** (University of Delhi × NIT Patna × Univ. of Valladolid)[cite: 1].
+## About
+
+Final-year CS (AI & ML) student who builds real, production-grade software. I've independently designed, built, and deployed two full-stack applications end to end — spanning REST API architecture, relational database design, authentication, and LLM-powered features. Published AI researcher. Open to internships and entry-level SWE / AI roles.
 
 ---
 
-### 🚀 Featured Projects
+## Projects
 
-#### 🤖 [InterviewAI](https://interview-ai-seven-olive.vercel.app)
-**AI-Powered Interview Preparation Platform**[cite: 1]  
-* **Tech Stack:** React, TypeScript, Node.js, Express.js, PostgreSQL, Prisma, Supabase, Groq LLM API, JWT[cite: 1]
-* Built resume-analysis pipeline returning structured JSON for ATS scoring and skill gap analysis via Groq API[cite: 1].
-* Designed dynamic prompt templates for Technical, HR, and Project interview modes with configurable difficulty levels[cite: 1].
+### 🎙️ InterviewAI — AI-Powered Interview Preparation Platform
+[Live Demo](https://interview-aiseven-olive.vercel.app/)
 
-#### 📊 [Job Application Tracker & Career Dashboard](https://job-tracker-sand-five-83.vercel.app)
-**Full-Stack Application Tracking System**[cite: 1]  
-* **Tech Stack:** React, TypeScript, Node.js, Express.js, PostgreSQL, Prisma ORM, JWT, Recharts[cite: 1]
-* Built multi-user account scoping with JWT authentication and custom REST APIs[cite: 1].
-* Integrated Recharts dashboards to visualize application response rates and status trends over time[cite: 1].
+- Resume-analysis pipeline via the Groq LLM API (LLaMA 3.3) — returns structured JSON for ATS score, matched/missing skills, and improvement suggestions
+- Dynamic prompt templates for technical, HR/behavioral, and project-specific interview modes, with difficulty as a prompt parameter — no external question-bank API
+- JWT authentication with access/refresh tokens and protected-route middleware
+- Prisma/PostgreSQL schema for sessions, Q&A pairs, and score history, plus an analytics dashboard tracking performance over time
 
+`TypeScript` `Vite` `Tailwind CSS` `Node.js` `Express.js` `PostgreSQL` `Prisma` `Groq AI` 
 
-### 🛠️ Technical Skills
+### 📋 Job Application Tracker & Career Dashboard
+[Live Demo](https://job-tracker-sand-five-83.vercel.app/)
 
-* **Languages:** C++, JavaScript (ES6+), SQL, TypeScript[cite: 1]
-* **Backend:** Node.js, Express.js, REST APIs, JWT Authentication[cite: 1]
-* **Databases:** PostgreSQL, MySQL, Prisma ORM, Supabase[cite: 1]
-* **AI / ML:** Groq API, LLaMA 3.3, Prompt Engineering, Azure AI[cite: 1]
-* **Tools:** Git, GitHub, Postman, Vercel, Render, VS Code[cite: 1]
+- PostgreSQL schema and Express REST endpoints for creating, updating, and status-tracking job applications
+- JWT-based multi-user accounts scoping each user's applications to their own account
+- Recharts dashboards surfacing response-rate trends over time
+- Started with a PRD and schema-design doc to lock the data model before writing code
+
+`TypeScript` `Vite` `Node.js` `Express.js` `PostgreSQL` `Prisma` `JWT` `Recharts`
 
 ---
 
-### 📑 Research & Publications
-* **AI in Education** — Published international research paper at **ICICC-2026** in collaboration with University of Delhi, NIT Patna, and University of Valladolid, Spain[cite: 1].
+## Skills
+
+`JavaScript` `C++` `SQL` `React` `Node.js` `Express` `PostgreSQL` `Docker` `Azure AI`
+
+---
+
+## Research
+
+**AI in Education** — Published at ICICC-2026 (NIT Patna × University of Valladolid, Spain)
+
+---
+
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudheer-kumar&show_icons=true&hide_border=true&count_private=true)
