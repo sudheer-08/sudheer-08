@@ -1,3 +1,6 @@
+Copy and paste the following Markdown block directly into your `sudheer-08/README.md` file on GitHub:
+
+```markdown
 # Hi, I'm Sudheer Kumar 👋
 
 **Final-Year CS (AI & ML) Student @ Chandigarh University**[cite: 1]  
@@ -31,13 +34,18 @@
 * Built multi-user account scoping with JWT authentication and custom REST APIs[cite: 1].
 * Integrated Recharts dashboards to visualize application response rates and status trends over time[cite: 1].
 
-## Skills
 
- `C++` `JavaScript`  `SQL` `Node.js` `Express` `PostgreSQL` `Docker` 
+### 🛠️ Technical Skills
+
+* **Languages:** C++, JavaScript (ES6+), SQL, TypeScript[cite: 1]
+* **Backend:** Node.js, Express.js, REST APIs, JWT Authentication[cite: 1]
+* **Databases:** PostgreSQL, MySQL, Prisma ORM, Supabase[cite: 1]
+* **AI / ML:** Groq API, LLaMA 3.3, Prompt Engineering, Azure AI[cite: 1]
+* **Tools:** Git, GitHub, Postman, Vercel, Render, VS Code[cite: 1]
 
 ---
 
-## Research
+### 📑 Research & Publications
+* **AI in Education** — Published international research paper at **ICICC-2026** in collaboration with University of Delhi, NIT Patna, and University of Valladolid, Spain[cite: 1].
 
-**AI in Education** — Published at ICICC-2026 (NIT Patna × University of Valladolid, Spain)
-
+```
