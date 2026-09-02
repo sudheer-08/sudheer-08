@@ -1,6 +1,3 @@
-Copy and paste the following Markdown block directly into your `sudheer-08/README.md` file on GitHub:
-
-```markdown
 # Hi, I'm Sudheer Kumar 👋
 
 **Final-Year CS (AI & ML) Student @ Chandigarh University**[cite: 1]  
@@ -47,5 +44,3 @@ Copy and paste the following Markdown block directly into your `sudheer-08/READM
 
 ### 📑 Research & Publications
 * **AI in Education** — Published international research paper at **ICICC-2026** in collaboration with University of Delhi, NIT Patna, and University of Valladolid, Spain[cite: 1].
-
-```
