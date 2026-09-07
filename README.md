@@ -1,5 +1,5 @@
 # Hi, I'm Sudheer Kumar 👋
-Full-Stack Developer · AI/ML · CS (AI & ML) @ Chandigarh University
+Full-Stack Developer · AI/ML · CSE (AI & ML) @ Chandigarh University
 
 📬 sudheerk31373@gmail.com · [LinkedIn](https://linkedin.com/in/sudheer-kumar08)
 
@@ -7,7 +7,7 @@ Full-Stack Developer · AI/ML · CS (AI & ML) @ Chandigarh University
 
 ## About
 
-Final-year CS (AI & ML) student who builds real, production-grade software. I've independently designed, built, and deployed two full-stack applications end to end — spanning REST API architecture, relational database design, authentication, and LLM-powered features. Published AI researcher. Open to internships and entry-level SWE / AI roles.
+Final-year CSE (AI & ML) student who builds real, production-grade software. I've independently designed, built, and deployed two full-stack applications end to end — spanning REST API architecture, relational database design, authentication, and LLM-powered features. Published AI researcher. Open to internships and entry-level SWE / AI roles.
 
 ---
 
